@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../projeto_curso"
+		},
+		{
+			"path": "../../projeto_curso/Projeto1-HTML"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "web"
+    }
+}
